@@ -1,6 +1,8 @@
 # Printer mods
 
 - [Micron](micron/)
+- [V2](voron_2/)
+- [Toolhead-related](toolhead/)
 
 ## LICENSE
 
